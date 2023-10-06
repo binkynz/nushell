@@ -1,0 +1,1 @@
+/Users/seanregister/Library/Application Support/nushell/config.nu
